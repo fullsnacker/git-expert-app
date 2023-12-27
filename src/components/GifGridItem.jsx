@@ -1,4 +1,3 @@
-
 export const GifGridItem = ({title, url}) => {
   return (
     <div className="card">
